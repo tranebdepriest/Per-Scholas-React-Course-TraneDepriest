@@ -127,10 +127,10 @@ You will need the following things:
 </details>
 
 ## 3. Use Flexbox
-
-Give your page structure with flexbox
 <details>
 <summary>(Click to Expand)</summary>
+
+Give your page structure with flexbox!
 
 **IMPORTANT: You may not use CSS frameworks for this assignment. Write your own CSS. Feel free to find examples of relevant CSS to reference - many are linked to in this README.**
 
