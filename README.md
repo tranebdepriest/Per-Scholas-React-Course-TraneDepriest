@@ -16,7 +16,8 @@ Most of all, it will get you back in the swing of coding!
 ## Assignment: Create your Homepage! 
 <details>
 <summary> Click to Expand </summary>
-Create your Homepage!A hompage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
+
+A homepage is a great professional asset for any software developer, and for anyone working in tech. You are going to create a [static webpage](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines#web_page) as your own homepage using HTML and CSS.
 
 This site can be a part of your professional portfolio and a great asset in developing your career.
 
