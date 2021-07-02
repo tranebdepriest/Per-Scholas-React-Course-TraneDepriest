@@ -94,12 +94,12 @@ You will need the following things:
 
 ## Your Tasks
 
-- [ ] [Know Your Tools](https://github.com/Per-Scholas-Org/WebsiteProject/#know-your-tools)
-- [ ] [Add Content](https://github.com/Per-Scholas-Org/WebsiteProject/#add-content-and-clean-up-the-page)
-- [ ] [Use Flexbox](https://github.com/Per-Scholas-Org/WebsiteProject/#give-your-page-structure-with-flexbox)
+- [ ] [Know Your Tools](https://github.com/Per-Scholas-Org/WebsiteProject/#1-know-your-tools)
+- [ ] [Add Content And Style](https://github.com/Per-Scholas-Org/WebsiteProject/#2-add-content-and-style)
+- [ ] [Use Flexbox](https://github.com/Per-Scholas-Org/WebsiteProject/#3-give-your-page-structure-with-flexbox)
 - [ ] [Bonus: Make Your Page Responsive](https://github.com/Per-Scholas-Org/WebsiteProject/#bonus-make-your-page-responsive)
 
-## Know Your Tools
+## 1. Know Your Tools
 <details>
 <summary>Click to Expand</summary>
 
@@ -107,7 +107,7 @@ You will need the following things:
 2. [See how you can use Chrome Devtools to view and change your CSS!!](https://developer.chrome.com/docs/devtools/css/). **You should be doing this as you work** - it's a LOT faster than making changes in your text editor. Prototype the changes using Devtools, then add them in your text editor!
 </details>
 
-## Add Content and Style
+## 2. Add Content and Style
 <details>
 <summary>Click to Expand</summary>
 
@@ -126,9 +126,11 @@ You will need the following things:
 6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
 </details>
 
-## Give your page structure with flexbox
+## Use Flexbox
+
+Give your page structure with flexbox
 <details>
-<summary>Click to Expand</summary>
+<summary>(Click to Expand)</summary>
 
 **IMPORTANT: You may not use CSS frameworks for this assignment. Write your own CSS. Feel free to find examples of relevant CSS to reference - many are linked to in this README.**
 
