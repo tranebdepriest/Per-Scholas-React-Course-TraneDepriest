@@ -96,7 +96,7 @@ You will need the following things:
 
 - [ ] [Know Your Tools](https://github.com/Per-Scholas-Org/WebsiteProject/#1-know-your-tools)
 - [ ] [Add Content And Style](https://github.com/Per-Scholas-Org/WebsiteProject/#2-add-content-and-style)
-- [ ] [Use Flexbox](https://github.com/Per-Scholas-Org/WebsiteProject/#3-give-your-page-structure-with-flexbox)
+- [ ] [Use Flexbox](https://github.com/Per-Scholas-Org/WebsiteProject/#3-use-flexbox)
 - [ ] [Bonus: Make Your Page Responsive](https://github.com/Per-Scholas-Org/WebsiteProject/#bonus-make-your-page-responsive)
 
 ## 1. Know Your Tools
