@@ -126,7 +126,7 @@ You will need the following things:
 6. Make the header nav section links [relative links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#absolute_versus_relative_urls) to their main content sections, i.e. clicking on "About" should take you to the "About" section of your page. Google "relative links" if the above link isn't helpful.
 </details>
 
-## Use Flexbox
+## 3. Use Flexbox
 
 Give your page structure with flexbox
 <details>
