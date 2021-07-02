@@ -92,14 +92,14 @@ You will need the following things:
 7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
 </details>
 
-# Your Tasks
+## Your Tasks
 
 - [ ] [Know Your Tools](https://github.com/Per-Scholas-Org/WebsiteProject/#know-your-tools)
 - [ ] [Add Content](https://github.com/Per-Scholas-Org/WebsiteProject/#add-content-and-clean-up-the-page)
 - [ ] [Use Flexbox](https://github.com/Per-Scholas-Org/WebsiteProject/#give-your-page-structure-with-flexbox)
 - [ ] [Bonus: Make Your Page Responsive](https://github.com/Per-Scholas-Org/WebsiteProject/#bonus-make-your-page-responsive)
 
-## Know Your Tools.
+## Know Your Tools
 <details>
 <summary>Click to Expand</summary>
 
@@ -107,7 +107,7 @@ You will need the following things:
 2. [See how you can use Chrome Devtools to view and change your CSS!!](https://developer.chrome.com/docs/devtools/css/). **You should be doing this as you work** - it's a LOT faster than making changes in your text editor. Prototype the changes using Devtools, then add them in your text editor!
 </details>
 
-## Add content and clean up the page
+## Add Content and Style
 <details>
 <summary>Click to Expand</summary>
 
