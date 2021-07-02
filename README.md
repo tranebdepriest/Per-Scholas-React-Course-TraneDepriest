@@ -7,13 +7,12 @@ This project is designed to help you prepare for your upcoming web development c
 
 Most of all, it will get you back in the swing of coding!
 
-- [ ] [Understand the Assignment](#assignment-create-your-homepage)
-- [ ] [Set Up Your Environment](#setup)
-- [ ] [Configure Your Repositories](#configuration)
-- [ ] [Start Your Tasks](#tasks)
+- [ ] [About the Assignment: Create Your Homepage!](#about-the-assignment-create-your-homepage)
+- [ ] [Setup Your Environment](#setup-your-environment)
+- [ ] [Configure Your Repositories](#configure-your-repositories)
+- [ ] [Your Tasks](#your-tasks)
 
-
-## Assignment: Create your Homepage! 
+## About The Assignment: Create Your Homepage! 
 <details>
 <summary> Click to Expand </summary>
 
@@ -60,7 +59,7 @@ For now we are focusing on simple page layout and design and don't have to worry
 **In this assignment you'll be working with [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), to bring this page to life and give it structure!**
 </details>
 
-## Setup
+## Setup Your Environment
 <details>
 <summary>Click to Expand</summary>
 You will need the following things:
@@ -74,9 +73,10 @@ You will need the following things:
 **Click on the links above for installation/setup instructions for all operating systems.**
 </details>
 
-## Configuration
+## Configure Your Repositories
 <details>
 <summary>Click to Expand</summary>
+
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository so that you have a main copy of this set of files under your own Github account.
 2. Use [`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) to make a copy of your own forked repository (from your Github account) to your local directory (on your device)
 
@@ -92,7 +92,7 @@ You will need the following things:
 7. Ensure the [`index.html`](index.html) and [`styles.css`](index.html) files from this project are included in your forked copy on your own github repository.
 </details>
 
-# Tasks
+# Your Tasks
 
 - [ ] [Know Your Tools](https://github.com/Per-Scholas-Org/WebsiteProject/#know-your-tools)
 - [ ] [Add Content](https://github.com/Per-Scholas-Org/WebsiteProject/#add-content-and-clean-up-the-page)
@@ -142,6 +142,7 @@ I've added some background colors to help you visualize the page structure. I **
 4. Now make sure your first "Hero Section" with the large text is styled well.
 </details>
 
+   
 ## Bonus: Make your page responsive
 
 Making a [responsive site which looks good on tablets and mobile devices](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) is a **critical** job skill for frontend developers. Make your portfolio page mobile-friendly!! Again, the reference site does an excellent job in this regard and should be your guide. Again, [Chrome Devtools is your friend](https://developer.chrome.com/docs/devtools/device-mode/#viewport) while doing this. [Here](https://coder-coder.com/build-flexbox-website-layout/) are some [resources](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
