@@ -5,6 +5,8 @@
 ## Overview
 This project is designed to help you prepare for your upcoming web development course and refresh your skills. By finishing this project, you'll be better prepared for the fast pace of our curriculum covering the skills necessary for you to become a full-stack developer. 
 
+>Note from the Instructor: You should have received email instructions on where to submit your project. If you have any questions, please get in touch with your point of contact. 
+
 Most of all, it will get you back in the swing of coding!
 
 - [ ] [About the Assignment: Create Your Homepage!](#about-the-assignment-create-your-homepage)
