@@ -1,4 +1,4 @@
-/*
+/* Code provided by Per Scholas */
 h1 {
   margin: 0;
 }
@@ -8,7 +8,7 @@ h1 {
 }
 
 .section-heading {
-  /* Add your own font here */ /*
+  /* Add your own font here */
   font-family: 
 }
 .button {
@@ -490,7 +490,7 @@ width: 100%;}
    margin-right: auto;
    vertical-align: top;
 }
-#my_Shape1
+#my_logo
 {
    transform: rotate(0deg);
    transform-origin: 50% 50%;
