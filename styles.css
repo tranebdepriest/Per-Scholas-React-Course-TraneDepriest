@@ -79,7 +79,7 @@ input:focus, textarea:focus, select:focus
    margin-left: auto;
    max-width: 1024px;
    font-size: 0px;
-   grid-column-gap: 8px;
+   grid-column-gap: 4px;
    grid-row-gap: 4px;
    grid-template-columns: 1fr 1fr 1fr 1fr;
    grid-template-rows: auto 500px auto 250px;
@@ -207,7 +207,8 @@ input:focus, textarea:focus, select:focus
 }
 #FlexGrid1 .left
 {
-   display: flex;
+  height: 300px; 
+  display: flex;
    grid-area: left;
    background-color: #D22881;
    background: linear-gradient(to right, #D22881 0%, #B31E6C 100%);
